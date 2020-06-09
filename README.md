@@ -1,4 +1,5 @@
 making a chessboard with:
-1. float,
-2. inline-block,
-3. position: absolute
+1. float: left;
+2. display: inline-block;
+3. position: absolute;
+4. display: flex;
